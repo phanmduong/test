@@ -1,0 +1,1 @@
+@extends("client.layout.master") @section("css") <link href="manage/shift/main.c167b65a413f7caad5ee5263ee61efb7.css" rel="stylesheet"> @endsection @section("js") <script type="text/javascript" src="manage/shift/main.64ce26f6b548190f3633.js"></script> @endsection

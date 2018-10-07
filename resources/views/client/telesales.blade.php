@@ -1,0 +1,1 @@
+@extends("client.layout.master") @section("css") <link href="manage/telesales/main.c167b65a413f7caad5ee5263ee61efb7.css" rel="stylesheet"> @endsection @section("js") <script type="text/javascript" src="manage/telesales/main.6bfef817e5d87634b35e.js"></script> @endsection

@@ -1,0 +1,1 @@
+@extends("client.layout.master") @section("css") <link href="manage/Zwarehouse/main.c167b65a413f7caad5ee5263ee61efb7.css" rel="stylesheet"> @endsection @section("js") <script type="text/javascript" src="manage/Zwarehouse/main.2d9183fdecf97cb6b48c.js"></script> @endsection
